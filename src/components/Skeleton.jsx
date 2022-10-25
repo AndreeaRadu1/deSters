@@ -24,7 +24,7 @@ function Media(props: MediaProps) {
             <Skeleton animation="wave" variant="circular" width={40} height={40} />
           ) : (
             <Avatar
-              alt="Ted sdafcasfafdfsdvsdvS djwahdbj   shasdmhtalk"
+              alt="Ted sdafcdfaeadfeaasfafdfsdvsdvS djwahdbj   shasdmhtalk"
               src="https://pbs.twimg.com/profile_images/877631054525472768/Xp5FAPD5_reasonably_small.jpg"
             />
           )
